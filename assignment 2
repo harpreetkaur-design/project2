@@ -1,4 +1,5 @@
 #include<iostream.h>
+  using namespace std;
 int main()
 {
 	char A[5],B[5],C[5];
@@ -23,3 +24,4 @@ int main()
 	}
 	cout<<"\n\n\n";
 	return(0)  ;
+}
