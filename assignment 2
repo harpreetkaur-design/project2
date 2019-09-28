@@ -5,8 +5,8 @@ int main()
 	char A[5],B[5],C[5];
 	int n,i,m;
 	cout<<"enter information :\n\n" ;
-	for(i=0;i<5;i++)
-	{cin>>A[i];
+	for(i=0;i<5;i++){
+	cin>>A[i];
     n=(int)A[i]; //for checking ASCII value of indiviual characters.
 	n=n+2;
 	B[i]=n;}
